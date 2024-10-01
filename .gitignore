@@ -1,0 +1,17 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+
+# AWS credentials and config files
+.aws/
+
+# VS Code settings
+.vscode/
